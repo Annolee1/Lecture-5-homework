@@ -1,0 +1,53 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+    background-color: #D5E1EF;
+}
+.Main_box {
+width: 320px;
+height: 497px;
+background-color: white;
+border-radius: 20px;
+margin-left: 511px;
+margin-top: 88px;
+border: 2px solid;
+border-color: white;
+}
+.QR_div { background-color:#2C7DFA;
+    box-sizing: 288px;
+    height: 288px; 
+    width: 288px;
+    margin:14px  ;
+   border: 1px solid;
+   border-color: #2C7DFA;
+   border-radius: 10px;
+   
+}
+.QR {
+    padding: 64px;
+}
+.Heading {
+    width: 288px;
+    height: 56px;
+   color: #1F314F;
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 700px;
+    font-family: 'Outfit';
+    text-align: center;
+    text-shadow: rgb(55, 49, 23) 1px 0 10px;
+}
+.Paragraph {
+ width: 256px;
+ height: 57px;
+ margin: 33px;
+ text-align: center;
+ color: #1F314F;
+ font-family: 'Outfit';
+ font-size: 15px;  
+}
